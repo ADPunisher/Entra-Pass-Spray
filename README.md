@@ -1,6 +1,6 @@
 # Entra-Pass-Spray
 
-## Use the entrapassspray python script in the runbook to execute the attack.
+## Use the EntraPassSpray python script in the runbook to execute the attack.
 
 The Entra-Pass-Spray Python script is designed to execute a password spray attack on Microsoft Entra ID using Azure Runbooks.
 ### How It Works
