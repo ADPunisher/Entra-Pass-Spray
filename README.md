@@ -8,7 +8,7 @@ The Entra-Pass-Spray Python script is designed to execute a password spray attac
 - This helps evade detection since, in the victim's logs, the source of the attack will show as a Microsoft IP address instead of an external threat.
 
 ### For more information:
-https://medium.com/@matanb707/entra-pass-spray-1d47325faa32
+https://medium.com/@matanb707/the-perfect-cover-masking-password-sprays-as-microsoft-traffic-254589f9ffc1
 
 ### Credits
 
